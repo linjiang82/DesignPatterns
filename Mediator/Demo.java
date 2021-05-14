@@ -10,6 +10,7 @@ public class Demo {
         chatroom.addUser(u2);
         chatroom.addUser(u3);
         u1.sendMsg("hello","124");
+        u1.sendMsg("hello emily","125");
         u2.sendMsg("hello back","123");
     }
 }
